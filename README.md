@@ -3,7 +3,8 @@ This project provides a comprehensive analysis of Apple Store sales data, highli
 
 # Apple-Store-Sales-Performance
 
-![image](https://github.com/user-attachments/assets/3c12fc4a-0e92-46ed-88fb-6b0e0381d53d)
+![image](https://github.com/user-attachments/assets/f1dbacd3-af6f-43bc-a8e4-646c27625ff3)
+
 
 
 ### Table of Contents.
@@ -15,9 +16,8 @@ This project provides a comprehensive analysis of Apple Store sales data, highli
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results](#results)
-- [Recomendations](#recomendations)
-- [Limitations](#limitations)
-- [References](#references)
+- [Insights & Recomendations](#Insights-&-recomendations)
+
 
 ### Project Overview.
 
@@ -63,39 +63,35 @@ EDA involves exploring the sales data to answer key questuions, such as:
  ### Results.
 
  The analysis results are summarized as follows:
- 1. Macbook pro laptop is the product with highest sales
+ 
+ 1. Macbook pro laptop is the product with highest sales.
 
  <img width="310" alt="image" src="https://github.com/user-attachments/assets/80ecf6e7-f61d-403b-9e72-d39bc93d4631">
 
  
- 2. The most preffered color of customers by orders is 'Olive'
+ 2. December is the month with highest sales.
 
- ![image](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/5f37a874-14ef-4d6c-a61b-34be934b0510)
-
- 3. Customers orders more during the Spring Season
-
-![image](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/23e0fb93-9cf9-4283-a772-21013cfbf577)
-
- 4. Pants, blouse & jewelry are the products with highest orders.
-
-![image](https://github.com/kdm1411/Shopping-Sales-Analysis/assets/150349346/20990d12-3939-45d8-9059-648a5c01d9f4)
-
-You can interact with the report [here](https://1drv.ms/x/s!AlXFKNb_xTUIjC7YEq8FHgd0EHtL?e=pCQ4go&nav=MTVfezhEOTZGOEI3LTAwRjctNDk4Mi1COEQwLTBFNEQxNDFENDVFRX0) 🤓
+ <img width="318" alt="image" src="https://github.com/user-attachments/assets/267913d6-859f-4b1a-b46a-536904904d4b">
 
 
-### Recomendations.
+ 3. San Fransisco is the state with highest sales.
+
+<img width="314" alt="image" src="https://github.com/user-attachments/assets/685e6df0-6232-45aa-8de3-9901aa12f134">
+
+
+ 4. Macbook pro Laptop is the product that generated the highest profit.
+
+<img width="316" alt="image" src="https://github.com/user-attachments/assets/8998f412-0237-4fa8-a4df-7d05d15056bb">
+
+
+You can interact with the report [here](https://docs.google.com/spreadsheets/d/1B9fN8MQCfAgNDGgP-syr1v9xQAUc7Ge2/edit?usp=drive_link&ouid=103092719043235535603&rtpof=true&sd=true) 🤓
+
+
+### Insights & Recomendations.
 
 Based on the analysis, we recommend the following actions:
 
-- Given that Montana state has the highest order acrcoss the country, the marketing team should focus more campaigns in the state and other states as well.
-- Olive color was the customers best choices of color, they should feature products available in this color.
-- About 1,000 produts was ordered during the spring season which makes the season most highest in terms orders, campaingns should be launch at the season to drive more revenue.
-- Pants, Blouse and jewelry are the most ordered products, they should be prioritize in the marketing campaings.
-
-### Limitations.
-
-I had to filter out the NA values from the Color column because they would have affected the accuracy of my conclutions from the analysis. The age column has to be categorize into ranges like teenage, adult & Old age for better analysis and visualisation.
-
-### References.
-
-[Google](http://google.com)
+1. **Strong Profit Margin:** A profit margin of over 62% indicates healthy profitability. Focus on maintaining cost control while exploring premium product lines like the MacBook Pro.
+2. **Top Product Focus:** The MacBook Pro Laptop is the top-performing product, contributing significantly to total sales. Marketing efforts should emphasize its features and target regions with high demand.
+3. **Regional Trends:** San Francisco and Los Angeles lead in product quantity ordered. Consider tailoring inventory and marketing strategies to meet demand in these regions.
+4. **Seasonal Opportunities:** Sales trends show a mid-year dip followed by a rebound during the holiday season. This highlights opportunities for targeted marketing campaigns and inventory planning.
